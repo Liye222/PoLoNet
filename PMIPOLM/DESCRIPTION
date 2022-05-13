@@ -1,0 +1,18 @@
+Package: PoLoNet
+Type: Package
+Title: A Network Regression for Binary and Ordinal Categorical Phenotypes to TWAS
+Version: 0.1.0
+Author: Liye Zhang and Tao Ju
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: To accurately model the dependence of genes in a network with a binary 
+             or ordinal categorical phenotype, we propose a network regression, 
+             pointwise mutual information-based proportional odds logistic model (PMI-POLM).
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports:
+    data.table,
+    KernSmooth,
+    akima,
+    ordinal
+RoxygenNote: 7.1.1
