@@ -3,6 +3,7 @@ We develop a proportional odds logistic model for network regression in TWAS, Po
 
 # Installation
 It is easy to install the development version of MRAID package using the 'devtools' package.
-# install.packages("devtools")
-library(devtools)
+
+'# install.packages("devtools")'
+'library(devtools)'
 `install_github("yuanzhongshang/MRAID")`
