@@ -7,4 +7,16 @@ It is easy to install the development version of MRAID package using the 'devtoo
 ``` 
 # install.packages("devtools")  
 library(devtools)  
-install_github("yuanzhongshang/MRAID")
+install_github("Liye222/PoLoNet")
+```
+# Usage
+The main function in the package is PoLoNet, you can find the instructions by '?PoLoNet'.
+
+```
+library(PoLoNet)
+
+?PoLoNet
+```
+# Example
+One simple example to use the package can be found at 
+https://github.com/yuanzhongshang/MRAID/tree/master/example
