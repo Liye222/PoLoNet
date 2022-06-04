@@ -18,5 +18,8 @@ library(PoLoNet)
 ?PoLoNet
 ```
 # Example
-One simple example to use the package can be found at 
-https://github.com/yuanzhongshang/MRAID/tree/master/example
+One simple example to use the package can be found at   
+https://github.com/Liye222/PoLoNet/tree/main/example
+
+# Development
+This R package is developed by Zhang Liye and Ju tao
